@@ -1,0 +1,14 @@
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\Zorgcentrum.exe
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\Zorgcentrum.deps.json
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\Zorgcentrum.runtimeconfig.json
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\Zorgcentrum.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\Zorgcentrum.pdb
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\refint\Zorgcentrum.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.pdb
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.genruntimeconfig.cache
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\ref\Zorgcentrum.dll
