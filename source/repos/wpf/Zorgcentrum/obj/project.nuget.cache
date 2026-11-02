@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EF1da/96eZ0=",
+  "dgSpecHash": "68oQnhH1AJM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Sebas\\source\\repos\\wpf\\Zorgcentrum\\Zorgcentrum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebas\\.nuget\\packages\\dryioc.dll\\5.4.3\\dryioc.dll.5.4.3.nupkg.sha512",
+    "C:\\Users\\Sebas\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Sebas\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\Sebas\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512"
+  ],
   "logs": []
 }

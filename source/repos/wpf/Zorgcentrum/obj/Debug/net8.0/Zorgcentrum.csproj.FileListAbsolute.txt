@@ -12,3 +12,10 @@ C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\refint\Zorgcentrum.
 C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.pdb
 C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.genruntimeconfig.cache
 C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\ref\Zorgcentrum.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.sourcelink.json
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\DryIoc.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\xunit.core.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcent.226BFB98.Up2Date

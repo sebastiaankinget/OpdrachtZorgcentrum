@@ -7,7 +7,7 @@ using System.Xml.Linq;
 
 namespace Zorgcentrum.domein
 {
-    public class Persoon
+    public abstract class Persoon
     {
         private string _rijkregisternummer;
         private string _naam;
@@ -23,6 +23,8 @@ namespace Zorgcentrum.domein
                 _rijkregisternummer = value;
             }
         }
+  
+
 
         public string Naam {
             get => _naam;
@@ -37,6 +39,7 @@ namespace Zorgcentrum.domein
             init { _voornaam = value; }
 
         }
+
 
 
         public Persoon(string rijkregisternummer , string naam, string voornaam)
