@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zorgcentrum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76933061d88d8f0ca116c78c002ea9633d478cc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e1a10063103d594b1bd536e24b7940396f7e521")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zorgcentrum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zorgcentrum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
