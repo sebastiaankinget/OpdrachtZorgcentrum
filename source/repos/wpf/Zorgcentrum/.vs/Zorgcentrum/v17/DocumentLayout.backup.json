@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C66A42-5D3B-6E17-94AF-320D1522A20F}|ApplicationServices\\ApplicationServices.csproj|c:\\repos\\opdrachtzorgcentrum\\source\\repos\\wpf\\zorgcentrum\\applicationservices\\applicationafspraak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C66A42-5D3B-6E17-94AF-320D1522A20F}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\applicationafspraak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D9ACD1-F386-A642-81F3-498760599AEA}|Zorgcentrum.csproj|c:\\repos\\opdrachtzorgcentrum\\source\\repos\\wpf\\zorgcentrum\\pati\u00EBntentesten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D9ACD1-F386-A642-81F3-498760599AEA}|Zorgcentrum.csproj|solutionrelative:pati\u00EBntentesten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D9ACD1-F386-A642-81F3-498760599AEA}|Zorgcentrum.csproj|c:\\repos\\opdrachtzorgcentrum\\source\\repos\\wpf\\zorgcentrum\\domein\\afspraken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D9ACD1-F386-A642-81F3-498760599AEA}|Zorgcentrum.csproj|solutionrelative:domein\\afspraken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C66A42-5D3B-6E17-94AF-320D1522A20F}|ApplicationServices\\ApplicationServices.csproj|c:\\repos\\opdrachtzorgcentrum\\source\\repos\\wpf\\zorgcentrum\\applicationservices\\applicationpati\u00EBnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C66A42-5D3B-6E17-94AF-320D1522A20F}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\applicationpati\u00EBnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pati\u00EBntenTesten.cs",
+              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\Pati\u00EBntenTesten.cs",
+              "RelativeDocumentMoniker": "Pati\u00EBntenTesten.cs",
+              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\Pati\u00EBntenTesten.cs",
+              "RelativeToolTip": "Pati\u00EBntenTesten.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:09:38.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "applicationAfspraak.cs",
+              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApplicationServices\\applicationAfspraak.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\applicationAfspraak.cs",
+              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApplicationServices\\applicationAfspraak.cs",
+              "RelativeToolTip": "ApplicationServices\\applicationAfspraak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:07:32.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationPati\u00EBnt.cs",
+              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApplicationServices\\ApplicationPati\u00EBnt.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\ApplicationPati\u00EBnt.cs",
+              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApplicationServices\\ApplicationPati\u00EBnt.cs",
+              "RelativeToolTip": "ApplicationServices\\ApplicationPati\u00EBnt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:07:28.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Afspraken.cs",
+              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\domein\\Afspraken.cs",
+              "RelativeDocumentMoniker": "domein\\Afspraken.cs",
+              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\domein\\Afspraken.cs",
+              "RelativeToolTip": "domein\\Afspraken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:06:57.195Z"
             }
           ]
         }

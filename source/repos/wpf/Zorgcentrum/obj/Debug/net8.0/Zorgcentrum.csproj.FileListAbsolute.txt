@@ -1,0 +1,39 @@
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\Zorgcentrum.exe
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\Zorgcentrum.deps.json
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\Zorgcentrum.runtimeconfig.json
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\Zorgcentrum.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\Zorgcentrum.pdb
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\refint\Zorgcentrum.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.pdb
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.genruntimeconfig.cache
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\ref\Zorgcentrum.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.sourcelink.json
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\DryIoc.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\bin\Debug\net8.0\xunit.core.dll
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcent.226BFB98.Up2Date
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\opdracht Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.csproj.AssemblyReference.cache
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\opdracht Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\opdracht Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.AssemblyInfoInputs.cache
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\opdracht Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.AssemblyInfo.cs
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\opdracht Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.csproj.CoreCompileInputs.cache
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\opdracht Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.sourcelink.json
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\opdracht Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.dll
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\opdracht Zorgcentrum\obj\Debug\net8.0\refint\Zorgcentrum.dll
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\opdracht Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.pdb
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.csproj.AssemblyReference.cache
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.AssemblyInfoInputs.cache
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.AssemblyInfo.cs
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.csproj.CoreCompileInputs.cache
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.sourcelink.json
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.dll
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\refint\Zorgcentrum.dll
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\obj\Debug\net8.0\Zorgcentrum.pdb

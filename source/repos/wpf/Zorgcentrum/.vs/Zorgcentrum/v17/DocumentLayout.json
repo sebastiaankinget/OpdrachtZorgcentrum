@@ -3,52 +3,20 @@
   "WorkspaceRootPath": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Afdelingen.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infrastructuur\\create_Afdelingen.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+      "AbsoluteMoniker": "D:0:0:{D2D9ACD1-F386-A642-81F3-498760599AEA}|Zorgcentrum.csproj|c:\\repos\\opdrachtzorgcentrum\\source\\repos\\wpf\\zorgcentrum\\pati\u00EBntentesten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D9ACD1-F386-A642-81F3-498760599AEA}|Zorgcentrum.csproj|solutionrelative:pati\u00EBntentesten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Artsen.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infrastructuur\\create_Artsen.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{D2D9ACD1-F386-A642-81F3-498760599AEA}|Zorgcentrum.csproj|c:\\repos\\opdrachtzorgcentrum\\source\\repos\\wpf\\zorgcentrum\\domein\\afspraken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D9ACD1-F386-A642-81F3-498760599AEA}|Zorgcentrum.csproj|solutionrelative:domein\\afspraken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Pati\u00EBnten.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infrastructuur\\create_Pati\u00EBnten.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{13C66A42-5D3B-6E17-94AF-320D1522A20F}|ApplicationServices\\ApplicationServices.csproj|c:\\repos\\opdrachtzorgcentrum\\source\\repos\\wpf\\zorgcentrum\\applicationservices\\applicationafspraak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C66A42-5D3B-6E17-94AF-320D1522A20F}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\applicationafspraak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Afspraken.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infrastructuur\\create_Afspraken.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\opdracht Zorgcentrum\\ZorgcentrumApplicatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:opdracht Zorgcentrum\\ZorgcentrumApplicatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApllicationServices\\ApplicationPati\u00EBnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApllicationServices\\ApplicationPati\u00EBnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApllicationServices\\applicationArts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApllicationServices\\applicationArts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApllicationServices\\applicationAfspraak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApllicationServices\\applicationAfspraak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Artsen.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infrastructuur\\create_Artsen.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Pati\u00EBnten.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infrastructuur\\create_Pati\u00EBnten.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Afspraken.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infrastructuur\\create_Afspraken.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Afdelingen.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infrastructuur\\create_Afdelingen.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{13C66A42-5D3B-6E17-94AF-320D1522A20F}|ApplicationServices\\ApplicationServices.csproj|c:\\repos\\opdrachtzorgcentrum\\source\\repos\\wpf\\zorgcentrum\\applicationservices\\applicationpati\u00EBnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C66A42-5D3B-6E17-94AF-320D1522A20F}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\applicationpati\u00EBnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,97 +35,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "create_Afdelingen.sql ",
-              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Afdelingen.sql",
-              "RelativeDocumentMoniker": "infrastructuur\\create_Afdelingen.sql",
-              "ToolTip": "create_Afdelingen.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-11-08T16:22:10.09Z",
+              "Title": "Pati\u00EBntenTesten.cs",
+              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\Pati\u00EBntenTesten.cs",
+              "RelativeDocumentMoniker": "Pati\u00EBntenTesten.cs",
+              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\Pati\u00EBntenTesten.cs",
+              "RelativeToolTip": "Pati\u00EBntenTesten.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:09:38.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "create_Pati\u00EBnten.sql ",
-              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Pati\u00EBnten.sql",
-              "RelativeDocumentMoniker": "infrastructuur\\create_Pati\u00EBnten.sql",
-              "ToolTip": "create_Pati\u00EBnten.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-11-08T16:01:17.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ZorgcentrumApplicatie.cs",
-              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\opdracht Zorgcentrum\\ZorgcentrumApplicatie.cs",
-              "RelativeDocumentMoniker": "opdracht Zorgcentrum\\ZorgcentrumApplicatie.cs",
-              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\opdracht Zorgcentrum\\ZorgcentrumApplicatie.cs",
-              "RelativeToolTip": "opdracht Zorgcentrum\\ZorgcentrumApplicatie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "applicationAfspraak.cs",
+              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApplicationServices\\applicationAfspraak.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\applicationAfspraak.cs",
+              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApplicationServices\\applicationAfspraak.cs",
+              "RelativeToolTip": "ApplicationServices\\applicationAfspraak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T16:10:35.006Z",
+              "WhenOpened": "2026-11-08T17:07:32.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "create_Afspraken.sql ",
-              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Afspraken.sql",
-              "RelativeDocumentMoniker": "infrastructuur\\create_Afspraken.sql",
-              "ToolTip": "create_Afspraken.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-11-08T16:07:01.942Z",
-              "EditorCaption": ""
+              "Title": "ApplicationPati\u00EBnt.cs",
+              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApplicationServices\\ApplicationPati\u00EBnt.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\ApplicationPati\u00EBnt.cs",
+              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApplicationServices\\ApplicationPati\u00EBnt.cs",
+              "RelativeToolTip": "ApplicationServices\\ApplicationPati\u00EBnt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:07:28.593Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "create_Artsen.sql ",
-              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\infrastructuur\\create_Artsen.sql",
-              "RelativeDocumentMoniker": "infrastructuur\\create_Artsen.sql",
-              "ToolTip": "create_Artsen.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-11-08T16:01:17.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationPati\u00EBnt.cs",
-              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApllicationServices\\ApplicationPati\u00EBnt.cs",
-              "RelativeDocumentMoniker": "ApllicationServices\\ApplicationPati\u00EBnt.cs",
-              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApllicationServices\\ApplicationPati\u00EBnt.cs",
-              "RelativeToolTip": "ApllicationServices\\ApplicationPati\u00EBnt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Afspraken.cs",
+              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\domein\\Afspraken.cs",
+              "RelativeDocumentMoniker": "domein\\Afspraken.cs",
+              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\domein\\Afspraken.cs",
+              "RelativeToolTip": "domein\\Afspraken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T16:01:11.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "applicationArts.cs",
-              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApllicationServices\\applicationArts.cs",
-              "RelativeDocumentMoniker": "ApllicationServices\\applicationArts.cs",
-              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApllicationServices\\applicationArts.cs",
-              "RelativeToolTip": "ApllicationServices\\applicationArts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T16:01:09.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "applicationAfspraak.cs",
-              "DocumentMoniker": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApllicationServices\\applicationAfspraak.cs",
-              "RelativeDocumentMoniker": "ApllicationServices\\applicationAfspraak.cs",
-              "ToolTip": "C:\\Repos\\OpdrachtZorgcentrum\\source\\repos\\wpf\\Zorgcentrum\\ApllicationServices\\applicationAfspraak.cs",
-              "RelativeToolTip": "ApllicationServices\\applicationAfspraak.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T16:01:08.861Z",
+              "WhenOpened": "2026-11-08T17:06:57.195Z",
               "EditorCaption": ""
             }
           ]

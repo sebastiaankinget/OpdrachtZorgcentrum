@@ -1,0 +1,5 @@
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\ApplicationServices\obj\Debug\net8.0\ApllicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\ApplicationServices\obj\Debug\net8.0\ApllicationServices.AssemblyInfoInputs.cache
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\ApplicationServices\obj\Debug\net8.0\ApllicationServices.AssemblyInfo.cs
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\ApplicationServices\obj\Debug\net8.0\ApllicationServices.csproj.CoreCompileInputs.cache
+C:\Repos\OpdrachtZorgcentrum\source\repos\wpf\Zorgcentrum\ApplicationServices\obj\Debug\net8.0\ApllicationServices.sourcelink.json
