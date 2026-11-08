@@ -11,8 +11,4 @@ CREATE TABLE [dbo].[AfdelingenVoorArts] (
    [RijkregisternummerArts] CHAR(11) NOT NULL,
    [AfdelingId] INT NOT NULL);
 
-CREATE TABLE [dbo].[Afdelingen] (
-   [Id] INT NOT NULL PRIMARY KEY,
-	[Naam] VARCHAR(50) NULL
- );
-
+   
