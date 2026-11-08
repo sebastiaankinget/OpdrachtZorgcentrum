@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ApllicationServices",
+    "\\ApllicationServices\\bin",
+    "\\Database1",
+    "\\infrastructuur",
+    "\\opdracht Zorgcentrum",
+    "\\opdracht Zorgcentrum\\domein"
   ],
+  "SelectedNode": "\\infrastructuur",
   "PreviewInSolutionExplorer": false
 }
